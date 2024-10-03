@@ -1,0 +1,2 @@
+Mã NV	Họ	Tên	Phái	Tuổi	Tiền lương	
+221	Tran	ho	Nam	12	1447.0	

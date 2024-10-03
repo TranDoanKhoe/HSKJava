@@ -1,0 +1,3 @@
+Mã NV	Họ	Tên	Phái	Tuổi	Tiền lương	
+123	Trần Đoàn	Khỏe	Nam	18	1232431241	
+124	Trần Đoàn	Khỏe	Nam	18	1232431241	
